@@ -1,0 +1,13 @@
+The following tools need to be downloaded (and put into the same root folder as our script). Download links are included. 
+
+Sysinternals Tools:
+PsTools - http://download.sysinternals.com/files/PSTools.zip
+Listdlls - http://download.sysinternals.com/files/ListDlls.zip
+handle - http://download.sysinternals.com/files/Handle.zip  
+
+Other Tools:
+7z command line http://downloads.sourceforge.net/sevenzip/7za920.zip
+DumpIt - http://www.moonsols.com/wp-content/plugins/download-monitor/download.php?id=7
+hmft - http://hexacorn.com/download.php?f=hmft.exe
+ftkimager command line - http://marketing.accessdata.com/acton/attachment/4390/u-0021/0/-/-/-/-/
+nmap's ncat - http://nmap.org/dist/ncat-portable-5.59BETA1.zip
